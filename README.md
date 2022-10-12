@@ -14,7 +14,10 @@
   <a href="mohammad.asfo@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  
 </div>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{AsfourMohammad}1212%2Fhit-counter" />
+
 ---
 
 ### :technologist: About Me :
@@ -62,7 +65,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :writing_hand: Blog Posts :
 
-
-<p><a href="https://ko-fi.com/Mohammad"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Mohammad" /></a></p><br><br>
+ 
+### <p><a href="https://ko-fi.com/Mohammad"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Mohammad" /></a></p><br><br>
