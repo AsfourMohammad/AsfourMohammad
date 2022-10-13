@@ -30,7 +30,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope:I’m working as a full-stack developer and contributing to the frontend and backend of building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Interested in web design.
 
 - :zap: In my free time, I solve problems on and read tech articles.
 
